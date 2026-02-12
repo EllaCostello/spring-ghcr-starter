@@ -1,4 +1,4 @@
-name: hello-world.yml
+name: Hello World
 on: [push]
 jobs:
   build:
